@@ -1,0 +1,11 @@
+file_format: "1"
+id: toepad
+name: Toepad
+type: shield
+url: https://github.com/kumekay/toepad
+requires: [xiao_ble]
+features:
+  - keys
+siblings:
+  - toepad_left
+  - toepad_right
